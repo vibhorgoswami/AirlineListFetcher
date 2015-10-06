@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AirlineListApplication</string>
+
+    <string name="show_helpful_hints"><u>Hints</u></string>
+    <string name="app_preference">TravellerPreferences</string>
+    <string name="kayay_base_url">https://www.kayak.com</string>
+    <string name="fetch_airlines_url">/h/mobileapis/directory/airlines</string>
+    <string name="airline_list_loading">Fetching the best airlines for you.. Hold on!</string>
+    <string name="airline_list_empty">Sorry! We\'re unable to find your favorite airlines. Please mark an airline as favorite and try again.</string>
+
+    <string name="helper_class_toggle_option">You can toggle the state to view your favorite selected airlines.</string>
+    <string name="helper_class_pull_to_refresh">You can pull the list down to refresh the list.</string>
+
+    <string name="home_switch_fav">Favorites</string>
+    <string name="home_switch_list">All</string>
+
+    <string name="airline_detail_name">Name</string>
+    <string name="airline_detail_website"><u>Website</u></string>
+    <string name="airline_detail_phone">Phone</string>
+    <string name="airline_no_phone">No phone available</string>
+    <string name="airline_no_website">No website available</string>
+    <string name="request_permission_call_title">Permission Required</string>
+    <string name="request_permission_call">The app requires permission to call this number.</string>
+    <string name="request_permission_call_allow">Allow</string>
+    <string name="request_permission_call_decline">Decline</string>
+</resources>
